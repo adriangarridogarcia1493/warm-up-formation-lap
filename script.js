@@ -128,7 +128,7 @@ function changeContent(page) {
         case 'about':
             contentDiv.innerHTML = `
                 <h2>Sobre la web 🛠️</h2>
-                <p>Soy Adrián Garrido García, estudiante del <strong>Instituto Vinyes Velles</strong>. Desarrollé este espacio web dentro de la optativa de programación para unir dos de mis grandes pasiones: la ingeniería web y el rugido de los motores de F1 y MotoGP[cite: 29, 30].</p>
+                <p>Soy Adrián Garrido García, estudiante del <strong>Instituto Vinyes Velles</strong>. Desarrollé este espacio web dentro de la optativa de programación para unir dos de mis grandes pasiones: la ingeniería web y el rugido de los motores de F1 y MotoGP.</p>
                 <p>¡¡A darle gasss a los códigos y a los circuitos!! 🏁</p>
             `;
             break;
